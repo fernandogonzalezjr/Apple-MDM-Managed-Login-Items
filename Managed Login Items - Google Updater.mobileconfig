@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Service Management - Managed Login Items</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.servicemanagement.A05F1439-2056-4388-B71C-1C4403E62FB0</string>
+			<key>PayloadType</key>
+			<string>com.apple.servicemanagement</string>
+			<key>PayloadUUID</key>
+			<string>A05F1439-2056-4388-B71C-1C4403E62FB0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Rules</key>
+			<array>
+				<dict>
+					<key>Comment</key>
+					<string>Google Updater</string>
+					<key>RuleType</key>
+					<string>Label</string>
+					<key>RuleValue</key>
+					<string>com.google.keystone.daemon</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Google Updater</string>
+					<key>RuleType</key>
+					<string>Label</string>
+					<key>RuleValue</key>
+					<string>com.google.keystone.system.agent</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Google Updater</string>
+					<key>RuleType</key>
+					<string>Label</string>
+					<key>RuleValue</key>
+					<string>com.google.keystone.system.xpcservice</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Untitled</string>
+	<key>PayloadIdentifier</key>
+	<string>YOUROWNNAMEGOESHERE.BBC1B4F2-39AF-400E-9ADE-13D86D621533</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>BBC1B4F2-39AF-400E-9ADE-13D86D621533</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

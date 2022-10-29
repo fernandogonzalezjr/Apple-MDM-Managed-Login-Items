@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Service Management - Managed Login Items</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.servicemanagement.7B0AAF36-4A3F-427A-BBE2-B28A263EBD04</string>
+			<key>PayloadType</key>
+			<string>com.apple.servicemanagement</string>
+			<key>PayloadUUID</key>
+			<string>7B0AAF36-4A3F-427A-BBE2-B28A263EBD04</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Rules</key>
+			<array>
+				<dict>
+					<key>Comment</key>
+					<string>Microsoft OneDrive</string>
+					<key>RuleType</key>
+					<string>BundleIdentifier</string>
+					<key>RuleValue</key>
+					<string>com.microsoft.OneDrive</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Microsoft OneDrive</string>
+					<key>RuleType</key>
+					<string>Label</string>
+					<key>RuleValue</key>
+					<string>Microsoft OneDrive</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Microsoft OneDrive</string>
+					<key>RuleType</key>
+					<string>Label</string>
+					<key>RuleValue</key>
+					<string>com.microsoft.OneDriveStandaloneUpdater</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Microsoft OneDrive</string>
+					<key>RuleType</key>
+					<string>Label</string>
+					<key>RuleValue</key>
+					<string>com.microsoft.OneDriveUpdaterDaemon</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Microsoft OneDrive</string>
+					<key>RuleType</key>
+					<string>Label</string>
+					<key>RuleValue</key>
+					<string>com.microsoft.OneDriveStandaloneUpdaterDaemon</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Untitled</string>
+	<key>PayloadIdentifier</key>
+	<string>YOUROWNNAMEGOESHERE.A6A0F987-110C-46F3-B263-7F5F85156989</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A6A0F987-110C-46F3-B263-7F5F85156989</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
